@@ -1,3 +1,6 @@
+# Whatsapp Clone
+Developed a clone of Whatsapp using React and firebase. This project uses firebase to store the messages and has Google authentication.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
